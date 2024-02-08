@@ -1,21 +1,6 @@
-  ## Hello! I am Witor Linhares. 👋
+  ## Hello! I'm Witor. 👋
 
-  ![WL GitHub stats](https://github-readme-stats.vercel.app/api?username=witorlinhares&show_icons=true&theme=dark)
-
-  ### Technology I use daily
-
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
-  
-  <h1 align="center"> Hello, I'm Witor!</h1>
+ <h1
       <sup></sup>
     <br/>
     <a href="https://www.linkedin.com/in/witorlinhares/">
@@ -26,12 +11,11 @@
     </a>
   </sup>
   </h1>
-<p>
- 
-<p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webertmaximiano&show_icons=true&theme=chartreuse-dark)
-## Skills
+  ![WL GitHub stats](https://github-readme-stats.vercel.app/api?username=witorlinhares&show_icons=true&theme=dark)
+
+  ### Skills
+
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,22 +23,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-## Hello! I am Witor Linhares. 👋
-
-
-![WL GitHub stats](https://github-readme-stats.vercel.app/api?username=witorlinhares&show_icons=true&theme=dark)
-
-
-### Technology I use daily
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### My greatest pleasure is taking my notebook, turning it on, putting on some good music and working. I love and have fun doing this, it's the best way I find to escape daily stress.
 
 
 
